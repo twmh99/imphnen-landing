@@ -1,45 +1,14 @@
-# IMPHNEN Landing Page
+Anggota Kelompok 5
+THEOFILUS WILLY MAROJAHAN . HGL - 231712622
+YOEL GILBERT SAMOSIR - 231712620
+CHARDO FIDELIS SILALAHI - 231712204
 
-Welcome to your IMPHNEN Landing Page project built with Next.js!
+Proyek FutureTech adalah sebuah platform e-commerce futuristik yang dirancang untuk menyediakan pengalaman belanja online yang modern dan inovatif. Aplikasi ini memungkinkan pelanggan menjelajahi berbagai produk teknologi canggih dengan antarmuka yang menarik dilengkapi animasi partikel interaktif dan efek visual neon. Bagi administrator, sistem ini menyediakan dashboard lengkap untuk mengelola produk, melacak pesanan, serta menganalisis performa penjualan. Dibangun dengan teknologi terkini seperti Next.js 14 dan MongoDB, proyek ini menawarkan sistem autentikasi aman yang membedakan akses antara admin dan customer, proteksi route berbasis peran, serta manajemen session yang handal. Dengan desain yang responsif dan optimasi performa, FutureTech tidak hanya memudahkan transaksi belanja tetapi juga memberikan pengalaman pengguna yang immersive dengan sentuhan futuristik, sekaligus menyediakan alat manajemen yang powerful bagi administrator untuk mengontrol seluruh operasional toko online.
 
-## Description
+Link GitHub
+https://github.com/yoelsamosir/projects.git
 
-This project is a modern framework based on Next.js, designed to help build high-performance and SEO-friendly web applications. Use this project as a starting point to develop dynamic and responsive web applications.
-
-## Key Features
-
--  Automatic routing
--  Server-side rendering (SSR) and static site generation (SSG)
--  API Routes for simple backend functionality
--  Full support for React Hooks and functional components
-
-## Installation
-
-Make sure you have Node.js (version 12 or higher) installed on your system.
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/superXdev/imphnen-landing.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd project-name
-   ```
-3. Install dependencies:
-   ```
-   npm install
-   ```
-4. Start the development server:
-   ```
-   npm run dev
-   ```
-
-## Contributions
-
-Contributions are welcome! Please fork the repository, create a new feature branch, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
-Happy coding!
+Bagian yang sudah dikerjakan tiap anggota:
+THEOFILUS WILLY MAROJAHAN . HGL
+YOEL GILBERT SAMOSIR
+CHARDO FIDELIS SILALAHI
